@@ -51,6 +51,6 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 ### 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushmithagorrepati04)
-- 📫 Email: sugorrep@ttu.ed
+- 📫 Email: sugorrep@ttu.edu
 
  *"Building AI-powered systems that not only scale, but think."*
