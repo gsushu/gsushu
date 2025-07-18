@@ -26,8 +26,6 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 | **Obesity ML App** | Predicts obesity levels from user inputs using ML | FastAPI, Streamlit, Scikit-learn |
 | **ServiceConnect Platform** | Real-time service dashboard integrating APIs & WebSockets | React, Django, MySQL, WebSockets |
 
- 🧠 All projects include model deployment, end-to-end architecture, and documentation.
-
 ### 🏆 Career Highlights
 
 - 🔍 Developed LLM and RAG pipelines for enterprise NLP and Q&A systems
