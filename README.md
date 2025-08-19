@@ -4,7 +4,7 @@
 📍 Based in Texas, USA | 💼 Actively Exploring Opportunities
 
 ### 💫 About Me
-I’m a creative problem-solver who thrives at the intersection of **AI research** and **software engineering**. With 3.5+ years of professional experience, I specialize in developing and deploying intelligent systems that power real-world applications — from full-stack web apps to fine-tuned LLMs in production.
+I’m a creative problem-solver who thrives at the intersection of **AI research** and **software engineering**. I specialize in developing and deploying intelligent systems that power real-world applications — from full-stack web apps to fine-tuned LLMs in production.
 
 My journey spans designing modern web apps, integrating ML models into scalable APIs, building RAG pipelines, and deploying on cloud platforms like **AWS**, **Azure**, and **GCP**. I’m passionate about driving impact through **efficient code, smart models, and clean architecture**.
 
