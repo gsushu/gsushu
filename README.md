@@ -23,11 +23,11 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 | Project | Description | Tools |
 |-----------|----------------|---------|
 | **LLM-Powered Chatbot** | Semantic search + context-aware document Q&A using LangChain & OpenAI | LangChain, Flask, Pinecone, OpenAI |
-| **Vision-Language Pretraining** | Contrastive learning framework for multi-modal embeddings | PyTorch, Transformers, Hugging Face |
-| **Obesity ML App** | Predicts obesity levels from user inputs using ML | FastAPI, Streamlit, Scikit-learn |
 | **ServiceConnect Platform** | Real-time service dashboard integrating APIs & WebSockets | React, Django, MySQL, WebSockets |
 | **Text-to-Sql** | Built a web-based Text-to-SQL application that converts natural language queries into SQL, executes them on uploaded databases, and delivers interactive, visualized insights.|Python, Flask, Tailwind CSS, LangChain, and PyGWalker, LLaMA, Phi-2, and Mistral
-| **Text-to-SQL** | Converts natural language queries into SQL and visualizes results interactively | Python, Flask, Tailwind CSS, LangChain, PyGWalker, LLaMA, Phi-2, Mistral |
+| **Vision-Language Pretraining** | Contrastive learning framework for multi-modal embeddings | PyTorch, Transformers, Hugging Face |
+| **Obesity ML App** | Predicts obesity levels from user inputs using ML | FastAPI, Streamlit, Scikit-learn |
+| **Fake News Detection** | A machine learning project that detects and classifies fake news articles using NLP techniques and compares algorithms for accuracy and performance | Python, NLP, Scikit-learn, SVM, Logistic Regression, Decision Tree, Random Forest, Naive Bayes |
 
 ### 🏆 Highlights
 
