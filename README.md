@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Sushmitha Gorrepati
 
 🎓 CS Grad Student @ Texas Tech | 🤖 AI/ML Engineer | 🧩 Full Stack Developer | ☁️ Cloud-Native Enthusiast  
-📍 Based in Texas, USA | 💼 Actively Exploring Opportunities
+
 
 ### 💫 About Me
 I’m a creative problem-solver who thrives at the intersection of **AI Software Egnineer** and **Full Stack Developement**. I specialize in developing and deploying intelligent systems that power real-world applications — from full-stack web apps to fine-tuned LLMs in production.
