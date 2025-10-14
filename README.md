@@ -31,12 +31,12 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 
 ### 🏆 Highlights
 
-- 🔍 Developed LLM and RAG pipelines for enterprise NLP and Q&A systems
-- 📊 Built ML workflows and dashboards for sentiment analysis, customer insights, and fraud detection
-- ☁️ Deployed microservices and models to AWS SageMaker, Azure ML Studio, and GCP Vertex AI
+- Developed LLM and RAG pipelines for enterprise NLP and Q&A systems
+- Built ML workflows and dashboards for sentiment analysis, customer insights, and fraud detection
+- Deployed microservices and models to AWS SageMaker, Azure ML Studio, and GCP Vertex AI
 - Implemented Guardrails AI for safe and reliable LLM output validation  
 - Wrote unit and integration tests using Pytest for API and ML pipelines  
-- 🧪 Automated ML pipelines using Kubeflow, Airflow, MLflow, and Feature Stores (Tecton, Databricks)
+- Automated ML pipelines using Kubeflow, Airflow, MLflow, and Feature Stores (Tecton, Databricks)
 - 🏅 Merit-based Scholarship recipient @ Texas Tech University
 
 ### 🌱 Currently Exploring
