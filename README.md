@@ -25,6 +25,7 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 | **Vision-Language Pretraining** | Contrastive learning framework for multi-modal embeddings | PyTorch, Transformers, Hugging Face |
 | **Obesity ML App** | Predicts obesity levels from user inputs using ML | FastAPI, Streamlit, Scikit-learn |
 | **ServiceConnect Platform** | Real-time service dashboard integrating APIs & WebSockets | React, Django, MySQL, WebSockets |
+| **Text-to-Sql** | Built a web-based Text-to-SQL application that converts natural language queries into SQL, executes them on uploaded databases, and delivers interactive, visualized insights.|
 
 ### 🏆 Career Highlights
 
