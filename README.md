@@ -22,7 +22,7 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 
 | Project | Description | Tools |
 |-----------|----------------|---------|
-| **LLM-Powered Chatbot** | Semantic search + context-aware document Q&A using LangChain & OpenAI | LangChain, Flask, Pinecone, OpenAI |
+| **MedAssistant** | A professional virtual healthcare assistant platform for document search, summarization, and chat. | RAG ,NLP ,LangChain ,Flask ,Semantic Search ,Prompt Engineering |
 | **ServiceConnect Platform** | Real-time service dashboard integrating APIs & WebSockets | React, Django, MySQL, WebSockets |
 | **Text-to-Sql** | Built a web-based Text-to-SQL application that converts natural language queries into SQL, executes them on uploaded databases, and delivers interactive, visualized insights.|Python, Flask, Tailwind CSS, LangChain, and PyGWalker, LLaMA, Phi-2, and Mistral
 | **Vision-Language Pretraining** | Contrastive learning framework for multi-modal embeddings | PyTorch, Transformers, Hugging Face |
