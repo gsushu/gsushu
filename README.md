@@ -59,8 +59,10 @@ My journey spans designing modern web apps, integrating ML models into scalable 
 #### Testing & QA Tools
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-046A38?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
+![Guardrails](https://img.shields.io/badge/Guardrails-A31F34?style=for-the-badge&logo=guardrails&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-2E8B57?style=for-the-badge&logo=langchain&logoColor=white)
+![Evals](https://img.shields.io/badge/OpenAI%20Evals-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 #### Monitoring & Tools
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
